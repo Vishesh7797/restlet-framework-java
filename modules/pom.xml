@@ -103,13 +103,13 @@
         <lib-simple-xml-version>2.7.1</lib-simple-xml-version>
         <lib-slf4j-version>1.7.2</lib-slf4j-version>
         <lib-snakeyaml-version>1.18</lib-snakeyaml-version>
-        <lib-solr-version>7.4.0</lib-solr-version>
+        <lib-solr-version>8.11.3</lib-solr-version>
         <lib-spring-version>3.2.8.RELEASE</lib-spring-version>
         <lib-stax2-version>3.1.4</lib-stax2-version>
         <lib-swagger-version>1.5.3-M1</lib-swagger-version>
         <lib-testng-version>6.8.7</lib-testng-version>
         <lib-thymeleaf-version>2.1.2.RELEASE</lib-thymeleaf-version>
-        <lib-tika-version>1.18</lib-tika-version>
+        <lib-tika-version>2.0.0</lib-tika-version>
         <lib-velocity-version>2.0</lib-velocity-version>
         <lib-woodstock-core-version>4.3.0</lib-woodstock-core-version>
     </properties>
